@@ -1,5 +1,5 @@
 # taking a,b,c sides of triangle
-# this prints true and false only
+# this program prints true if triangle is possible and false otherwise
 
 a=int(input("Provide sides of triangle > 0 \n \t Enter side 1 of triangle : \n \t"))
 b=int(input("Enter side 2 of triangle : \n \t"))
